@@ -1,4 +1,4 @@
-# Remote-sensing-CNN-land-classify
+# Remote-sensing-CNN-land-classify，遥感landsat 影像地物分类，基于CNN深度学习的方法
 Remote-sensing-CNN-land-classify
 遥感landsat 影像地物分类，基于CNN深度学习的方法
 
